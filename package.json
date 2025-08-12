@@ -67,7 +67,7 @@
     "express": "^4.21.2",
     "lru-cache": "^7.18.3",
     "ws": "^8.18.2",
-    "zod": "^3.22.0"
+    "zod": "^4.0.17"
   },
   "devDependencies": {
     "@jest/globals": "^30.0.2",
